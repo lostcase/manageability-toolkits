@@ -1481,110 +1481,8 @@
   ],
   "PerformanceCounters": [
     {
-      "ObjectName": "Cluster CSV File System",
-      "CounterName": "IO Read Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Cluster CSV File System",
-      "CounterName": "IO Read Latency",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Cluster CSV File System",
-      "CounterName": "IO Reads/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Cluster CSV File System",
-      "CounterName": "IO Write Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Cluster CSV File System",
-      "CounterName": "IO Write Latency",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Cluster CSV File System",
-      "CounterName": "IO Writes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Hyper-V Dynamic Memory VM",
-      "CounterName": "Guest Visible Physical Memory",
-      "InstanceName": "*",
-      "intervalSeconds": 1800
-    },
-    {
-      "ObjectName": "Hyper-V Dynamic Memory VM",
-      "CounterName": "Physical Memory",
-      "InstanceName": "*",
-      "intervalSeconds": 1800
-    },
-    {
-      "ObjectName": "Hyper-V Hypervisor Logical Processor",
-      "CounterName": "% Total Run Time",
-      "InstanceName": "*",
-      "intervalSeconds": 60
-    },
-    {
-      "ObjectName": "Hyper-V Hypervisor Virtual Processor",
-      "CounterName": "% Total Run Time",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Hyper-V Virtual Storage Device",
-      "CounterName": "Read Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Hyper-V Virtual Storage Device",
-      "CounterName": "Read Operations/Sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Hyper-V Virtual Storage Device",
-      "CounterName": "Write Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "Hyper-V Virtual Storage Device",
-      "CounterName": "Write Operations/Sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
       "ObjectName": "LogicalDisk",
       "CounterName": "% Free Space",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Avg. Disk sec/Read",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Avg. Disk sec/Transfer",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Avg. Disk sec/Write",
       "InstanceName": "*",
       "intervalSeconds": 300
     },
@@ -1596,67 +1494,13 @@
     },
     {
       "ObjectName": "LogicalDisk",
-      "CounterName": "Disk Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Disk Read Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Disk Reads/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Disk Transfers/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Disk Write Bytes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
-      "CounterName": "Disk Writes/sec",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "LogicalDisk",
       "CounterName": "Free Megabytes",
       "InstanceName": "*",
       "intervalSeconds": 300
     },
     {
       "ObjectName": "Memory",
-      "CounterName": "% Committed Bytes In Use",
-      "InstanceName": "*",
-      "intervalSeconds": 1800
-    },
-    {
-      "ObjectName": "Memory",
       "CounterName": "Available MBytes",
-      "InstanceName": "*",
-      "intervalSeconds": 1800
-    },
-    {
-      "ObjectName": "Memory",
-      "CounterName": "Commit Limit",
-      "InstanceName": "*",
-      "intervalSeconds": 1800
-    },
-    {
-      "ObjectName": "Memory",
-      "CounterName": "Committed Bytes",
       "InstanceName": "*",
       "intervalSeconds": 1800
     },
@@ -1679,18 +1523,6 @@
       "intervalSeconds": 300
     },
     {
-      "ObjectName": "NUMA Node Memory",
-      "CounterName": "Available MBytes",
-      "InstanceName": "_Total",
-      "intervalSeconds": 1800
-    },
-    {
-      "ObjectName": "NUMA Node Memory",
-      "CounterName": "Total MBytes",
-      "InstanceName": "_Total",
-      "intervalSeconds": 1800
-    },
-    {
       "ObjectName": "Processor",
       "CounterName": "% Processor Time",
       "InstanceName": "*",
@@ -1705,12 +1537,6 @@
     {
       "ObjectName": "System",
       "CounterName": "Processor Queue Length",
-      "InstanceName": "*",
-      "intervalSeconds": 300
-    },
-    {
-      "ObjectName": "TCPv4",
-      "CounterName": "Connections Established",
       "InstanceName": "*",
       "intervalSeconds": 300
     }
