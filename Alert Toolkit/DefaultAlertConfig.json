@@ -1217,6 +1217,18 @@
       "CounterName": "Processor Queue Length",
       "InstanceName": "*",
       "intervalSeconds": 300
+    },
+    {
+      "ObjectName": "NUMA Node Memory",
+      "CounterName": "Available MBytes",
+      "InstanceName": "_Total",
+      "intervalSeconds": 1800
+    },
+    {
+      "ObjectName": "NUMA Node Memory",
+      "CounterName": "Total MBytes",
+      "InstanceName": "_Total",
+      "intervalSeconds": 1800
     }
   ]
 }
