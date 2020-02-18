@@ -489,7 +489,7 @@ foreach ($alert in $alertlist){
 
 	$alertDisplayName = $alert.AlertName
 
-	Write-Host " -Creating alert $alertProgressCount of $($numAlerts): '$alertDisplayName'"
+	Write-Host " -Creating alert $alertProgressCount of $($numAlerts):  '$alertDisplayName'"
 
 	Write-Verbose "Creating rule source..."
 	Write-Verbose "Workspace resource id: $($workspace.ResourceId)"
