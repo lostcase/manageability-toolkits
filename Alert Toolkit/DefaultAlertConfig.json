@@ -669,7 +669,7 @@
       }
     },
     {
-      "AlertName": "SQL - Log Capacity threshold exceeded",
+      "AlertName": "CORE SQL - Log Capacity threshold exceeded",
       "AlertGuid": "7bbdf8236-66ff-45d2-be45-aca07b90ace5d2",
       "Tags": [
         "Core"
