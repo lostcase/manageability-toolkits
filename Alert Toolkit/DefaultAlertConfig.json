@@ -16,7 +16,7 @@
       },
       "Schedule": {
         "Interval": 15,
-        "QueryTimeSpan": 15,
+        "QueryTimeSpan": 30,
         "Active": "true"
       },
       "AlertDefinition": {
